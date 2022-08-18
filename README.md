@@ -1,2 +1,2 @@
-# jinkilee
+# website
 Jinki Lee's Website
